@@ -1,5 +1,3 @@
-# Firebase Studio
+# No more loose charging cables ruining your plans!
 
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+When charger gets unplugged, this backgroung running app screams to remind you to plug it back in. Simple but effective :)
